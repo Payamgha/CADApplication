@@ -1,0 +1,2 @@
+- Using this Matlab-based GUI, the user is able to draw 2-D shapes and apply 2d transformations (e.g., scale, rotation, etc.) to them.
+- The main file for running the GUI interface is "gui2DManipulation_PG.fig"
