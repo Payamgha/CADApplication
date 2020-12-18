@@ -1,4 +1,4 @@
- n = quatInverse_50205008(q)
+function n = quatInverse(q)
 %QUATINVERSE_50205008
 %
 % Syntax:  n = quatInverse_50205008(q)
